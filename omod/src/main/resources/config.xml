@@ -27,6 +27,10 @@
 		<require_module version="${uiframeworkVersion}">
 			org.openmrs.module.uiframework
 		</require_module>
+				<!-- Required Modules -->
+		<require_modules>
+			<require_module version="${htmlFormEntryVersion}">org.openmrs.module.htmlformentry</require_module>
+		</require_modules>
 	</require_modules>
 	<!-- / Required Modules -->
 	

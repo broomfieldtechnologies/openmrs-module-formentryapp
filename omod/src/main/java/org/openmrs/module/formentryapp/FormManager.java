@@ -14,8 +14,10 @@ import org.openmrs.Privilege;
 import org.openmrs.api.UserService;
 import org.openmrs.module.Extension;
 import org.openmrs.module.ModuleFactory;
-import org.openmrs.module.web.FormEntryContext;
-import org.openmrs.module.web.extension.FormEntryHandler;
+import org.openmrs.module.htmlformentry.FormEntryContext;
+//import org.openmrs.module.web.FormEntryContext;
+import org.openmrs.module.htmlformentry.handler.FormEntryHandler;
+//import org.openmrs.module.web.extension.FormEntryHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
