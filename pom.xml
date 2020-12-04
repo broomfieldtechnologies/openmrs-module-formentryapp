@@ -32,7 +32,7 @@
         <openMRSVersion>2.3.0</openMRSVersion>
         <appframeworkVersion>2.2.1</appframeworkVersion>
         <uiframeworkVersion>3.2</uiframeworkVersion>
-        <legacyuiVersion>1.1</legacyuiVersion>
+        <legacyuiVersion>1.5.0</legacyuiVersion>
         <htmlformentryVersion>3.8.0</htmlformentryVersion>
 	</properties>
 
